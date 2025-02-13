@@ -15,5 +15,5 @@ Here's a bit more about me:
 
 - **Languages:** Python, JavaScript, PHP, Java, HTML, CSS
 - **Frameworks:** Django, Flask, React, Angular, Vue, Laravel, Spring Boot, Tailwind CSS, Material UI
-- **Tools:** Git, Docker, VS Code
+- **Tools:** Git, Docker, Intellij, VS Code
 - **Databases:** PostgreSQL, MongoDB, MySQL, GraphQL
